@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+
+#logo {
+  animation: App-logo-spin infinite 10s linear;
+  height: 150px;
+}
+
+.App-header {
+  background-color: #FA8320;
+  height: 200px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 25px;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+body {
+  background-color: #FA8320;
+}
+
+#jumbo {
+  background-color: #048BA8;
+}
+
+#jumbo h1 {
+  color: white;
+}
+
+
+#first {
+  display: block;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+
+#first h3 {
+  color: white;
+}
+
+#second {
+  display: block;
+  text-align: center;
+}
+
+#second h3 {
+  color: white;
+  margin-bottom: 50px;
+}
+
+#third {
+  display: block;
+  text-align: center;
+}
+
+#third h3 {
+  color: white;
+  margin-bottom: 50px;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+#footer {
+  height: 100px;
+  line-height: 100px;
+  background-color: #048BA8;
+  color: white;
+  text-align: center;
+}
